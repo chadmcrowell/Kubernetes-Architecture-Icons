@@ -246,6 +246,10 @@ Latest and previous downloadable archive versions can found on the [releases pag
     <td><img src="icons/svg/nginx-ingress-controller.svg" width="50px;" alt=""/></td>
     <td><a href="docs/nginx-ingress-controller.md">Nginx Ingress Controller</a></td>
   </tr>
+  <tr>
+    <td><img src="icons/svg/nginx-gateway-controller.svg" width="50px;" alt=""/></td>
+    <td><a href="docs/nginx-gateway-controller.md">Nginx Gateway Controller</a></td>
+  </tr>
 </table>
 
 ## Storage
